@@ -1,11 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import Media from 'react-media';
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
 import './index.css'
 import "../styles/layout-overide.css"
-import Media from 'react-media';
+
 
 const TemplateWrapper = ({ children }) => (
   <div>

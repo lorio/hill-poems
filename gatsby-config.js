@@ -12,7 +12,6 @@ module.exports = {
         name: 'pages',
       },
     },
-    `gatsby-transformer-remark`,
-    `react-media`,
+    `gatsby-transformer-remark`,   
   ],
 };
