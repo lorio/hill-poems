@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Hillary Keel | Writing',
+    Description: 'Poetry and Prose by Brooklyn-based writer Hillary Keel',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -12,6 +13,20 @@ module.exports = {
         name: 'pages',
       },
     },
-    `gatsby-transformer-remark`,   
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        excerpt_separator: `<!-- end -->`
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Raleway\:600`, // you can also specify font weights and styles
+        ]
+      }
+    }
   ],
-};
+};   
+  
