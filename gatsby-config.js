@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Hillary Keel | Writing',
+    title: 'hillary Keel | writing',
     Description: 'Poetry and Prose by Brooklyn-based writer Hillary Keel',
   },
   plugins: [

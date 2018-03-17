@@ -1,7 +1,7 @@
 ---
 path: "/the-erste-fois"
 date: "1993"
-title: "The erste fois I war à Prague"
+title: "the erste fois i war à prague"
 ---
   
 November fog und Kälte;<!-- end -->    

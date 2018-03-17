@@ -1,7 +1,7 @@
 ---
 path: "/an-die-deutsche"
 date: "1994"
-title: "An die deutsche Sprache"
+title: "an die deutsche sprache"
 ---
 so klar, so bestimmt<!-- end -->  
 mit Anfang und Ende.  

@@ -1,7 +1,7 @@
 ---
 path: "/above-the-timber-line"
 date: "1994"
-title: "Above the Timber Line"
+title: "above the timber line"
 ---
   
 where grass looks like velvet,<!-- end -->  
