@@ -4,7 +4,7 @@ date: "2017"
 title: "swimming particles in a field"
 ---
 
-old swivel chair I sit<!-- end -->
+old swivel chair I sit  <!-- end -->
 at vintage dining table  
 for desk, I swim through   
 grainy computer interface   
