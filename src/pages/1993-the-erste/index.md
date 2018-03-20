@@ -93,4 +93,4 @@ in das Hotel
 and told each other  
 short stories.  
 
-*Poem published by Peter Waugh in Subdream, 1998.*
+_Poem published by Peter Waugh in **Subdream**, 1998._

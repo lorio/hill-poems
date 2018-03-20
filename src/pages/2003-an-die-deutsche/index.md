@@ -53,5 +53,5 @@ ganz woanders, wäre ich nicht ich.
  
 Ich liebe Dich.
        
-*©2014 Poems by Hillary Keel  
-Beehive Magazine, vol.6*
+_©2014 Poems by Hillary Keel  
+**Beehive Magazine**, vol.6_
