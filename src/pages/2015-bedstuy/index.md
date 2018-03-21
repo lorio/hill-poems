@@ -4,7 +4,7 @@ date: "2015-03-05"
 title: "bedstuy"
 ---
 
-"...to be free in every aspect." --Mighty Beardo<!-- end -->
+“…to be free in every aspect.”  Mighty Beardo<!-- end -->
 
 a stroller, a flaneur, the quiet      
 of, there is snow, a snowy     

@@ -14,8 +14,8 @@ I’m in Spotsylvania County,
 Herkimer County, St. Lawrence County,   
 Montgomery County, Tuscony, Burgundy,   
 Bucks County, Sullivan County, Pike   
-County, *Bezirk Zwettl,   
-Ich bin in Wien, in Wien, in Wien.*
+County, Bezirk Zwettl,   
+Ich bin in Wien, in Wien, in Wien.
 
 I am in a coffee house, I sit in a park,   
 I lie on Freud’s couch, with my leg’s propped  
