@@ -20,3 +20,8 @@ h1 {
 p, div {
     font-size: 18px;
 }
+hr.poem {
+    width: 14.5em;
+    border: 1px solid #006;
+    margin-bottom: 6px;
+}

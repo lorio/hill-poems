@@ -166,9 +166,9 @@ flies above
 not far off  
 just by the jagged tips  
 you can hear its rumbling motor.  
-_ _ _ _ _ _ _ _ _ _ _ _ _ _  
-Wave to it! wave!  
-I’m here, I’m down here!  
-Please come rescue me  
+<hr class="poem">  
+Wave to it! wave!<br>  
+I’m here, I’m down here!<br>  
+Please come rescue me<br>  
 from all this inebriating air!
  

@@ -67,7 +67,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About Me"
-                  description='Along with writing Poetry and Prose, I have a Healing through Hypnosis practice based in Brooklyn, NY. I am a German to English Translator. I am an adjunct lecturer for German and the German Fairy Tales at Hunter College, CUNY.'
+                  description='Along with writing Poetry and Prose, I have a Healing through Hypnosis practice based in Brooklyn, NY. I am a German to English Translator. I am an adjunct lecturer for German and the German Fairy Tale at Hunter College, CUNY.'
                 />
                 <Sidebar
                   copy=' © 2018 Hillary Keel. hillary.keel @ gmail.com  &nbsp;  &nbsp; All rights reserved. hillarykeel.com'
