@@ -17,6 +17,7 @@ const Header = () => (
         flexBasis: '30% auto',
         maxWidth: '280px',
         padding: '1.45rem 1.0875rem',
+        backgroundColor: '#f5f5f5',
       }}
     >
       <h1 style={{ margin: 0, display: 'flex',fontSize: '18px' }}>
