@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="Writing | Hillary Keel"
       meta={[
-        { name: 'description', content: 'Poetry and Prose by Brooklyn-NY based writer, translator, and Hypnotherapist Hillary Keel' },
+        { name: 'description', content: 'Poetry and Prose by Sullivan County,NY-based writer, translator, and Hypnotherapist Hillary Keel' },
         { name: 'keywords', content: 'poetry, prose' },
       ]}
     />
@@ -67,7 +67,7 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="About Me"
-                  description='Along with writing Poetry and Prose, I have a Healing through Hypnosis practice based in Brooklyn, NY. I am a German to English Translator. I am an adjunct lecturer for German and the German Fairy Tale at Hunter College, CUNY.'
+                  description='Along with writing Poetry and Prose, I have a Healing through Hypnosis practice based in Sullivan County, NY. I am a German to English Translator. I am an adjunct lecturer for German and the German Fairy Tale at Hunter College, CUNY.'
                 />
                 <Sidebar
                   copy=' © 2019 Hillary Keel. hillary.keel @ gmail.com  &nbsp;  &nbsp; All rights reserved. hillarykeel.com'
