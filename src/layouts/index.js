@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import favicon from '../images/favicon.ico';
 import Media from 'react-media';
 import Header from '../components/Header'
 import Sidebar from '../components/Sidebar'
@@ -13,6 +14,7 @@ const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
       title="Writing | Hillary Keel"
+      link={[{ rel: "icon", type: "image/png", href: `${favicon}`}]}
       meta={[
         { name: 'description', content: 'Poetry and Prose by Sullivan County,NY-based writer, translator, and Hypnotherapist Hillary Keel' },
         { name: 'keywords', content: 'poetry, prose' },
