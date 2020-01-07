@@ -7,3 +7,4 @@ src/.DS_Store
 # Build directory
 /public
 
+.DS_Store

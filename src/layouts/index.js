@@ -72,7 +72,7 @@ const TemplateWrapper = ({ children }) => (
                   description='Along with writing Poetry and Prose, I have a Healing through Hypnosis practice based in Sullivan County, NY. I am a German to English Translator. I am an adjunct lecturer for German and the German Fairy Tale at Hunter College, CUNY.'
                 />
                 <Sidebar
-                  copy=' © 2019 Hillary Keel. hillary.keel @ gmail.com  &nbsp;  &nbsp; All rights reserved. hillarykeel.com'
+                  copy=' © 2020 Hillary Keel. hillary.keel @ gmail.com  &nbsp;  &nbsp; All rights reserved. hillarykeel.com'
                 />
               </div>
             </div>
